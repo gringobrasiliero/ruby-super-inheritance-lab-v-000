@@ -9,6 +9,7 @@ def raise_hand
 i=0
 while i <= 10 do
   super
+  i+=
 end
 end
 end
