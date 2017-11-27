@@ -12,4 +12,3 @@ def raise_hand
     i+=
   end
   end
-end
