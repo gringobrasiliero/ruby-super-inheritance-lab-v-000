@@ -6,6 +6,9 @@ puts  "How are you doing today? I'm okay, but I'm kind of tired. Did you watch T
 end
 
 def raise_hand
-super
+i=0
+while i <= 10 do
+  super
+end
 end
 end
